@@ -1,0 +1,23 @@
+# Next.js build output
+.next/
+
+# NPM modules
+node_modules/
+
+# Editor files
+.vscode/
+.idea/
+
+# Log files
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.production.local
+
+# Other build artifacts
+out/
+build/
+dist/
